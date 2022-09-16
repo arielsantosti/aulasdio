@@ -1,0 +1,54 @@
+Exceções PHP - Exceptions
+
+Eventos que desviam o fluxo de um programa, script, função
+
+Em OO e ertruturado
+
+Exception é diferente de Error
+
+InvalidArgumentoException
+Tipo não esperado
+
+Para lançar a exceção - THROW = LANÇAR
+
+Para tratar TRY(TESTAR) e CATCH(Para capturar)
+
+FINALLY
+------------------------------------------------------------------
+
+Debug =  depuração
+
+Niveis: 
+Warning = Alerta, deve ser corrigido!
+Notice = Aviso!
+Parse Error = Erros de ; por exemplo
+Fatal Error = Erros de fucções e classes não definidas
+
+display_errors: ON - Determina se eles devem aparecer
+
+error_reporting: E_ALL - mostra todos os erros
+
+MEIOS PARA EVITAR ERROS
+Code reviewing
+Design patterns
+Code Clean
+Principios SOLID
+Bons comentários
+TDD = Test driver development
+
+TECNICAS PARA RESOLUÇÃO
+Tracing: echo , var_dump
+Tentativa/erro
+Reversão de código
+Isolar problema
+Uso de debugger: XDebug
+
+--------------------------------------------------------------------
+
+Hierarquia das Excessões
+
+
+
+
+
+
